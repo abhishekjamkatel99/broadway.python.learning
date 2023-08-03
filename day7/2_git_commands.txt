@@ -12,5 +12,5 @@ Setup git configuration in Local
  3. git add . ==> Add all the changes to git repo
  4. git commit -m "<commit-message>"
 
- 4. git branch
- 5. git remote -v
+ 4. git branch ==> list all the git branches
+ 5. git remote -v ==> list all the remote urls
