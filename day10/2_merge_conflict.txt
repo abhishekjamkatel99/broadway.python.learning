@@ -1,0 +1,9 @@
+# Merge conflict arises if we try to merge one branch to another where certain line of codes in one branch is
+committed and the same lines of code is committed in the other branch.
+
+
+
+  a = 1
+  b=2
+  print(a+b)
+
